@@ -1,12 +1,12 @@
-# Gezo Harvest & Green Haven Retro - Android APK Release
+# Gezo Harvest & Green Haven Retro - Android APK Versioned Releases
 
 📱 **Android Pixel Farming RPG Games (Godot 4.3)**
 
-Download verified APK files to install directly on your Android mobile device:
-- 🌾 **Gezo Harvest:** [GezoHarvest.apk](./GezoHarvest.apk) (`104 MB`)
-- 🚜 **Green Haven Retro:** [GreenHavenRetro.apk](./GreenHavenRetro.apk) (`92.6 MB`)
+### 📦 Download Files (Versioned Releases):
+- 🌾 **Gezo Harvest v2 (Fixed Display & Compatibility):** [GezoHarvest_v2.apk](./GezoHarvest_v2.apk) (`26.7 MB`)
+- 🚜 **Green Haven Retro v2 (Fixed Display & Compatibility):** [GreenHavenRetro_v2.apk](./GreenHavenRetro_v2.apk) (`26.7 MB`)
 
 ✅ **Verification Status:**
-- `zipalign -c 4`: 100% Passed (4-byte alignment compliant)
+- `zipalign -c 4`: 100% Passed
 - `apksigner`: Verified with Signature Scheme v1, v2, and v3
-- Compatible with Android 5.0 up to Android 14+
+- Renderer: GL Compatibility (OpenGL ES 3.0) for 100% Android mobile display support
